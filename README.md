@@ -66,5 +66,6 @@ Para sair, aperte ESC, digite :detach e pressione ENTER
 
 
 ## Agradecimentos
-*Uesley Correa - Desenvolvedor e motivador do projeto ( e tb quem pagou a cerveja ).
-*Guilherme Ramires - Contribuições em firewall e lógica de captura.
+>Uesley Correa - Desenvolvedor e motivador do projeto ( e tb quem pagou a cerveja ).
+
+>Guilherme Ramires - Contribuições em firewall e lógica de captura.
