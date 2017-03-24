@@ -1,0 +1,8 @@
+#!/bin/sh
+
+
+PASTA="/neteducgnatloggerd/logs"
+PORTA="666"
+
+mkdir -p $PASTA 
+./neteducgnatd $PASTA $PORTA
