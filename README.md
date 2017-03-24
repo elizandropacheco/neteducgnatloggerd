@@ -62,7 +62,7 @@ Para verificar o software rodando em tempo real:
 $ screen -r
 ```
 
-Para sair, aperte <esc>, digite :detach e pressione <enter>
+Para sair, aperte ESC, digite :detach e pressione ENTER
 
 
 
