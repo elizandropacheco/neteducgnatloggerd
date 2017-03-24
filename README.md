@@ -8,7 +8,7 @@ Daemon para logs de NAT que respeita as obrigações do Marco Civil da Internet
 # Recursos
 
   - Compatível com RouterOS ( Mikrotik )
-  - Pasta de aramazenamento configurável
+  - Pasta de armazenamento configurável
   - Compatível com armazenamento na nuvem ( mega, drive, dropbox )
   - Compactação bz2 automática
   - Rotação automática de hora em hora
