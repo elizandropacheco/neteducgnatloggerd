@@ -18,8 +18,6 @@ Consumo de recursos ( 400MB Aprox ):
   - 7% de cpu de um core de 2.8Ghz
   - 8-10Mb por arquivo por hora
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
-
 # Instalação ( Ubuntu Server ):
 > Recomendamos uma instalação limpa do Ubuntu Server em 64bits
 
