@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="NetEduc CGNAT Logger: Logs de NAT via syslog para o Marco Civil da Internet">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F232F"/>
+      <stop offset="1" stop-color="#2A2F3D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#04B4EF"/>
+      <stop offset="1" stop-color="#A0CC3B"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#04B4EF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#04B4EF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.85" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#04B4EF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#04B4EF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#grid)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#glow)"/>
+  <g>
+    <line x1="1068" y1="184" x2="1090" y2="168" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1068" y1="184" x2="1041" y2="210" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="908" y1="280" x2="904" y2="256" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="908" y1="280" x2="840" y2="231" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1001" y1="268" x2="1041" y2="210" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1001" y1="268" x2="908" y2="280" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="942" y1="64" x2="824" y2="31" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="942" y1="64" x2="1076" y2="131" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="824" y1="31" x2="942" y2="64" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="824" y1="31" x2="858" y2="201" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="858" y1="201" x2="840" y2="231" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="858" y1="201" x2="904" y2="256" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1167" y1="289" x2="1199" y2="181" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1167" y1="289" x2="1090" y2="168" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1199" y1="181" x2="1158" y2="97" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1199" y1="181" x2="1090" y2="168" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1212" y1="58" x2="1194" y2="50" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1212" y1="58" x2="1158" y2="97" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1090" y1="168" x2="1068" y2="184" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1090" y1="168" x2="1076" y2="131" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="840" y1="231" x2="858" y2="201" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="840" y1="231" x2="904" y2="256" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1041" y1="210" x2="1068" y2="184" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1041" y1="210" x2="1090" y2="168" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1076" y1="131" x2="1090" y2="168" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1076" y1="131" x2="1068" y2="184" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="904" y1="256" x2="908" y2="280" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="904" y1="256" x2="840" y2="231" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1158" y1="97" x2="1194" y2="50" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1158" y1="97" x2="1212" y2="58" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1194" y1="50" x2="1212" y2="58" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <line x1="1194" y1="50" x2="1158" y2="97" stroke="url(#edge)" stroke-width="1.2" opacity="0.55"/>
+    <circle cx="1068" cy="184" r="6" fill="#A0CC3B"/>
+    <circle cx="1068" cy="184" r="13" fill="none" stroke="#A0CC3B" stroke-opacity="0.35"/>
+    <circle cx="908" cy="280" r="3.5" fill="#04B4EF"/>
+    <circle cx="1001" cy="268" r="3.5" fill="#04B4EF"/>
+    <circle cx="942" cy="64" r="3.5" fill="#A0CC3B"/>
+    <circle cx="824" cy="31" r="6" fill="#04B4EF"/>
+    <circle cx="824" cy="31" r="13" fill="none" stroke="#04B4EF" stroke-opacity="0.35"/>
+    <circle cx="858" cy="201" r="3.5" fill="#04B4EF"/>
+    <circle cx="1167" cy="289" r="3.5" fill="#A0CC3B"/>
+    <circle cx="1199" cy="181" r="3.5" fill="#04B4EF"/>
+    <circle cx="1212" cy="58" r="6" fill="#04B4EF"/>
+    <circle cx="1212" cy="58" r="13" fill="none" stroke="#04B4EF" stroke-opacity="0.35"/>
+    <circle cx="1090" cy="168" r="3.5" fill="#A0CC3B"/>
+    <circle cx="840" cy="231" r="3.5" fill="#04B4EF"/>
+    <circle cx="1041" cy="210" r="3.5" fill="#04B4EF"/>
+    <circle cx="1076" cy="131" r="6" fill="#A0CC3B"/>
+    <circle cx="1076" cy="131" r="13" fill="none" stroke="#A0CC3B" stroke-opacity="0.35"/>
+    <circle cx="904" cy="256" r="3.5" fill="#04B4EF"/>
+    <circle cx="1158" cy="97" r="3.5" fill="#04B4EF"/>
+    <circle cx="1194" cy="50" r="3.5" fill="#A0CC3B"/>
+  </g>
+  <rect x="72" y="82" width="56" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="146" fill="#FFFFFF" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">NetEduc CGNAT Logger</text>
+  <text x="72" y="200" fill="#C9D1D9" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24">Logs de NAT via syslog para o Marco Civil da Internet</text>
+  <text x="72" y="256" fill="#04B4EF" font-family="Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3">ELIZANDRO PACHECO</text>
+</svg>
